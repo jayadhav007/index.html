@@ -1,0 +1,7 @@
+<html>
+<body>
+<script> src = "javascript1"></script>
+<script> src = "javascript2"></script>
+
+</body>
+</html>
